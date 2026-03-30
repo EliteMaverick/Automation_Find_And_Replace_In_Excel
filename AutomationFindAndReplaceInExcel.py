@@ -29,13 +29,10 @@
 # import os
 # import openpyxl
 #
-# folder_path = "C:/Users/Camera Man EPO/Desktop/Test File"
+# folder_path = " #Insert Folder Path Here "
 # excel_files = [f for f in os.listdir(folder_path) if f.endswith('.xlsx')][:10]  # Test on 10 files
 #
-# replacement_text = """UNITED ALLIANCE FOR AFRICAN GRANT PROJECT (UAAG) BUNDLE TEMPLATE
-#
-# NGO NAME: DIVINE DELEGATES ASSEMBLY
-# NGO CEO AND PHONE NUMBER: BENJAMIN GREAT AMANAHA 08068701566"""
+# replacement_text = """#Input Replacement Text Here"""
 #
 # for file_name in excel_files:
 #     file_path = os.path.join(folder_path, file_name)
@@ -55,13 +52,11 @@
 # import os
 # import openpyxl
 #
-# folder_path = "C:/Users/Camera Man EPO/Desktop/Py thon test"
+# folder_path = "#Input Folder Path Here"
 # excel_files = [f for f in os.listdir(folder_path) if f.endswith('.xlsx')][:10]  # Test on 10 files
 #
 # replacement_texts = {
-#     3: "UNITED ALLIANCE FOR AFRICAN GRANT PROJECT (UAAG) BUNDLE TEMPLATE",
-#     4: "NGO NAME: DIVINE DELEGATES ASSEMBLY",
-#     5: "NGO CEO AND PHONE NUMBER: BENJAMIN GREAT AMANAHA 08068701566"
+#Input Replacement Texts Here
 # }
 #
 # for file_name in excel_files:
@@ -84,13 +79,11 @@
 import os
 import openpyxl
 
-# folder_path = "C:/Users/Camera Man EPO/Desktop/Py thon test"
+# folder_path = "#Input Folder Path Here"
 # excel_files = [f for f in os.listdir(folder_path) if f.endswith('.xlsx')][:8]  # Test on 10 files
 #
 # replacement_texts = {
-#     3: "UNITED ALLIANCE FOR AFRICAN GRANT PROJECT (UAAG) BUNDLE TEMPLATE",
-#     4: "NGO NAME: DIVINE DELEGATES ASSEMBLY",
-#     5: "NGO CEO AND PHONE NUMBER: BENJAMIN GREAT AMANAHA 08068701566"
+#Input Replacement Texts Here
 # }
 #
 # for file_name in excel_files:
